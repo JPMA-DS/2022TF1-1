@@ -25,3 +25,6 @@
 東北大学で作成された事前学習モデルのライセンスを継承し、学習済みモデルは[Creative Commons Attribution-ShareAlike 3.0](https://creativecommons.org/licenses/by-sa/3.0/)の下に配布されます。
 
 このリポジトリにあるコードは、MITライセンスの下に配布されます。
+
+## 更新履歴
+ - 2025年12月：リポジトリを移管しました。（[旧アドレス](https://github.com/Takumi173/JPMA2022TF1-1)）
